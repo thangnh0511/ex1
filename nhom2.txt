@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 1.Dương Đỗ Siêu + A
 2.Nguyễn Thành Tuấn + A
 
-=======
-3.Doan Thi Thuy Trang + A
->>>>>>> branch3
